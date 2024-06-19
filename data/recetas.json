@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nombre": "Pastel de Vainilla",
+        "ingredientes": [
+            {
+                "id_ingrediente": 1,
+                "cantidad": "200g"
+            },
+            {
+                "id_ingrediente": 2,
+                "cantidad": "100g"
+            },
+            {
+                "id_ingrediente": 3,
+                "cantidad": "2"
+            },
+            {
+                "id_ingrediente": 4,
+                "cantidad": "250ml"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Galletas de Chocolate",
+        "ingredientes": [
+            {
+                "id_ingrediente": 1,
+                "cantidad": "150g"
+            },
+            {
+                "id_ingrediente": 2,
+                "cantidad": "80g"
+            },
+            {
+                "id_ingrediente": 3,
+                "cantidad": "1"
+            }
+        ]
+    }
+]
